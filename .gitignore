@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Custom ###
+.claude/
+application-local.properties
+*.log
+
+### docker ###
+docker-compose.yml
+
