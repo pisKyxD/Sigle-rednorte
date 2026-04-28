@@ -36,3 +36,7 @@ build/
 .claude/
 application-local.properties
 *.log
+
+### docker ###
+docker-compose.yml
+
